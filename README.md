@@ -21,6 +21,8 @@ Visualization: I built two distinct bar charts: “Down Time per Factory” to c
 
 Interactive Dashboard: I combined these visualizations into a single, interactive dashboard. A key feature was implementing a filter action, allowing a user to select a factory in the first chart to dynamically filter the second chart, providing a granular view of device-specific issues within that location.
 
+<img width="1399" height="952" alt="Screenshot 2025-08-27 at 6 51 31 PM" src="https://github.com/user-attachments/assets/67b2d38b-3ace-421d-a97b-9bfdf99b5420" />
+
 # Task 2: Pay Equity Analysis with Excel
 
 The second project shifted focus to HR analytics, where I analyzed employee compensation data to assess pay equity.
